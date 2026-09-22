@@ -93,6 +93,10 @@ Once all sections are completed, the Reducer subgraph takes over:
 ### 6. 🖥️ Interactive Web UI (`bwa_frontend.py`)
 Streamlit streams the entire process in real time, letting you inspect the outline, examine sources, preview the final post with inline images, and download the finished package.
 
+
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/233cd3e5-6bb5-4395-b122-76e13839ee05" />
+
+
 ---
 
 ## 📁 Project Structure
@@ -232,3 +236,8 @@ TAVILY_API_KEY=your_tavily_api_key_here
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+<img width="1657" height="857" alt="image" src="https://github.com/user-attachments/assets/8a10ace6-8231-44fd-bedd-ddd207418fc8" />
+
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/80529ec3-d92e-4663-80f9-bea36ef67949" />
+
